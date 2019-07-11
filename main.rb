@@ -1,3 +1,7 @@
 puts "Type your nickname: "
 nicknam = gets
-puts nicnam.reserve
+puts nicknam.reverse
+xd = gets
+puts xd
+xd = gets
+puts xd
